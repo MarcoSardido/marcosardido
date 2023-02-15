@@ -1,11 +1,29 @@
-<h1 align="center">Hello 👋, I'm MarcoSardido</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/marco-sardido">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://marco-sardido-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-486def?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcosardido&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+<h1 align="center">Hello 👋🏼, I'm MarcoSardido</h1>
 <h3 align="center">A graduating student from Philippines 🇵🇭 who is passionate learning new technologies to become a FullStack Web Developer 😎</h3>
 
 - 🌱 I’m currently learning **ReactJS with Typescript**
 
 - 👨‍💻 All of my projects are available at [https://marco-sardido-portfolio.vercel.app/](https://marco-sardido-portfolio.vercel.app/)
 
-- 💬 Ask me about **Coding, Video games, Anime**
+- 💬 Ask me about **Coding, Video games, Movies, Anime**
 
 - 📫 How to reach me **msardido.dev@gmail.com**
 
