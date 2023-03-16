@@ -17,7 +17,7 @@
 
 
 <h1 align="center">Heyy there 👋🏼, I'm MarcoSardido</h1>
-<h3 align="center">A graduating student from Philippines 🇵🇭 who is passionate learning new technologies to become a FullStack Web Developer 😎</h3>
+<h3 align="center">I'm a fresh graduate IT from the Philippines 🇵🇭 who is passionate learning new technologies to become a FullStack Web Developer 😎</h3>
 
 - 🌱 I’m currently learning **ReactJS with Typescript**
 
