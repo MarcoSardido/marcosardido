@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **msardido.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eLCPoHX1YzLreDaZP72erz1GDO0YYFMo/view?usp=drivesdk](https://drive.google.com/file/d/1eLCPoHX1YzLreDaZP72erz1GDO0YYFMo/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fBEczF3zqPWxTSCPPO_EwP5zHJmO1wYI/view?usp=drivesdk](https://drive.google.com/file/d/1fBEczF3zqPWxTSCPPO_EwP5zHJmO1wYI/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
