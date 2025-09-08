@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/marco-sardido">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://marco-sardido-portfolio.vercel.app/">
+<!--   <a href="https://marco-sardido-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-486def?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="header" align="center">
