@@ -16,18 +16,8 @@
 </div>
 
 
-<h1 align="center">Heyy there 👋🏼, I'm MarcoSardido</h1>
-<h3 align="center">I'm a fresh graduate IT from the Philippines 🇵🇭 who is passionate learning new technologies to become a FullStack Web Developer 😎</h3>
-
-- 🌱 I’m currently learning **ReactJS with Typescript**
-
-- 👨‍💻 All of my projects are available at [https://marco-sardido-portfolio.vercel.app/](https://marco-sardido-portfolio.vercel.app/)
-
-- 💬 Ask me about **Coding, Video games, Movies, Anime**
-
-- 📫 How to reach me **msardido.dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fBEczF3zqPWxTSCPPO_EwP5zHJmO1wYI/view?usp=drivesdk](https://drive.google.com/file/d/1fBEczF3zqPWxTSCPPO_EwP5zHJmO1wYI/view?usp=drivesdk)
+<h1 align="center">Hi there 👋🏼, I'm MarcoSardido</h1>
+<h3 align="center">Full-stack software developer with 2+ years of experience in building and maintaining device management and billing systems for telecommunications. Recently transitioned into AI automation development, designing and deploying AI-driven workflows that optimize processes, reduce manual workload, and drive operational efficiency for businesses.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
